@@ -1,2 +1,6 @@
-# vanilla-vm
-Vanilla VM guide
+# vanilla-vm \(NOT COMPLETE\)
+
+Vanilla VM guide  
+\(NOT COMPLETE\)  
+\(UNUSABLE STATE\)
+
